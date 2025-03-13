@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm bhargav yerragolla</h1>
+<h1 align="center">Hi 👋, I'm Bhargav Yerragolla</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,5 +26,17 @@
   </a>
   <a href="https://www.mulesoft.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mulesoft/mulesoft-icon.svg" alt="mulesoft" width="40" height="40"/>
+  </a>
+  <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="40" height="40"/>
+  </a>
+  <a href="https://boomi.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dellboomi/dellboomi-icon.svg" alt="boomi" width="40" height="40"/>
+  </a>
+  <a href="https://www.workato.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/workato/workato-icon.svg" alt="workato" width="40" height="40"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
   </a>
 </p>
