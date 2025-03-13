@@ -28,10 +28,7 @@
     <img src="https://www.vectorlogo.zone/logos/mulesoft/mulesoft-icon.svg" alt="mulesoft" width="40" height="40"/>
   </a>
   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="40" height="40"/>
-  </a>
-  <a href="https://boomi.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/boomi/boomi-icon.svg" alt="boomi" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="salesforce" width="100" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
