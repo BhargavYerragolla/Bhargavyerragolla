@@ -31,10 +31,7 @@
     <img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-icon.svg" alt="salesforce" width="40" height="40"/>
   </a>
   <a href="https://boomi.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dellboomi/dellboomi-icon.svg" alt="boomi" width="40" height="40"/>
-  </a>
-  <a href="https://www.workato.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/workato/workato-icon.svg" alt="workato" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/boomi/boomi-icon.svg" alt="boomi" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
